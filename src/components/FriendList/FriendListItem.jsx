@@ -1,4 +1,3 @@
-import { SiGeeksforgeeks } from "react-icons/si";
 import css from "./FriendList.module.css";
 
 const FriendListItem = ({ avatar, name, isOnline }) => {
